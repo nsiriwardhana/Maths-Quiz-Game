@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- App Name -->
+<string name="app_name">Math quiz game multi</string>
+<!-- Game Levels -->
+<string-array name="levels_array">
+    <item>Level 1</item>
+    <item>Level 2</item>
+</string-array>
+<!-- Labels -->
+<string name="label_score">Score: %1$d</string>
+<string name="label_question">Question: %1$d/%2$d</string>
+<!-- Operation names -->
+<string name="operation_addition">Addition</string>
+<string name="operation_subtraction">Subtract</string>
+<string name="operation_multiplication">Multiply</string>
+<string name="operation_division">Division</string>
+<string name="operation_random">Random</string>
+<string name="operation_exit">Exit</string>
+<!-- Game Over Screen -->
+<string name="game_over">Game Over!</string>
+<string name="score">Score: %1$d</string>
+<string name="try_again">Try again</string>
+<string name="home">Home</string>
+<string name="exit">Exit</string>
+
+</resources>
